@@ -327,7 +327,7 @@
                                 <div class="portfolio-item padd-15" data-category="photography">
                                     <div class="portfolio-item-inner shadow-dark">
                                         <div class="portfolio-img">
-                                            <img src="images/1.jpg" alt="portfolio">
+                                            <img src="images/1.JPG" alt="portfolio">
                                         </div>
                                         <div class="portfolio-info">
                                             <h4>Back-End</h4>
@@ -343,7 +343,7 @@
                                 <div class="portfolio-item padd-15" data-category="photography">
                                     <div class="portfolio-item-inner shadow-dark">
                                         <div class="portfolio-img">
-                                            <img src="images/2.jpg" alt="portfolio">
+                                            <img src="images/2.JPG" alt="portfolio">
                                         </div>
                                         <div class="portfolio-info">
                                             <h4>Back-End</h4>
@@ -359,7 +359,7 @@
                                 <div class="portfolio-item padd-15" data-category="web-design">
                                     <div class="portfolio-item-inner shadow-dark">
                                         <div class="portfolio-img">
-                                            <img src="images/3.jpg" alt="portfolio">
+                                            <img src="images/3.JPG" alt="portfolio">
                                         </div>
                                         <div class="portfolio-info">
                                             <h4>Front-End</h4>
@@ -375,7 +375,7 @@
                                 <div class="portfolio-item padd-15" data-category="web-design">
                                     <div class="portfolio-item-inner shadow-dark">
                                         <div class="portfolio-img">
-                                            <img src="images/4.jpg" alt="portfolio">
+                                            <img src="images/4.JPG" alt="portfolio">
                                         </div>
                                         <div class="portfolio-info">
                                             <h4>Front-End</h4>
@@ -391,7 +391,7 @@
                                 <div class="portfolio-item padd-15" data-category="wordpress">
                                     <div class="portfolio-item-inner shadow-dark">
                                         <div class="portfolio-img">
-                                            <img src="images/5.jpg" alt="portfolio">
+                                            <img src="images/5.JPG" alt="portfolio">
                                         </div>
                                         <div class="portfolio-info">
                                             <h4>Back-End</h4>
@@ -407,7 +407,7 @@
                                 <div class="portfolio-item padd-15" data-category="wordpress">
                                     <div class="portfolio-item-inner shadow-dark">
                                         <div class="portfolio-img">
-                                            <img src="images/6.jpg" alt="portfolio">
+                                            <img src="images/6.JPG" alt="portfolio">
                                         </div>
                                         <div class="portfolio-info">
                                             <h4>Back-End</h4>
@@ -422,7 +422,7 @@
                                  <div class="portfolio-item padd-15" data-category="wordpress">
                                     <div class="portfolio-item-inner shadow-dark">
                                         <div class="portfolio-img">
-                                            <img src="images/7.jpg" alt="portfolio">
+                                            <img src="images/7.JPG" alt="portfolio">
                                         </div>
                                         <div class="portfolio-info">
                                             <h4>Front-End</h4>
@@ -437,7 +437,7 @@
                                  <div class="portfolio-item padd-15" data-category="wordpress">
                                     <div class="portfolio-item-inner shadow-dark">
                                         <div class="portfolio-img">
-                                            <img src="images/8.jpg" alt="portfolio">
+                                            <img src="images/8.JPG" alt="portfolio">
                                         </div>
                                         <div class="portfolio-info">
                                             <h4>Front-End</h4>
@@ -452,7 +452,7 @@
                                  <div class="portfolio-item padd-15" data-category="web-design">
                                     <div class="portfolio-item-inner shadow-dark">
                                         <div class="portfolio-img">
-                                            <img src="images/9.jpg" alt="portfolio">
+                                            <img src="images/9.JPG" alt="portfolio">
                                         </div>
                                         <div class="portfolio-info">
                                             <h4>Front-End</h4>
@@ -467,7 +467,7 @@
                                  <div class="portfolio-item padd-15" data-category="wordpress">
                                     <div class="portfolio-item-inner shadow-dark">
                                         <div class="portfolio-img">
-                                            <img src="images/10.jpg" alt="portfolio">
+                                            <img src="images/10.JPG" alt="portfolio">
                                         </div>
                                         <div class="portfolio-info">
                                             <h4>Front-End</h4>
