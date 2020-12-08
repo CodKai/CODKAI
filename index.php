@@ -482,7 +482,7 @@
                                  <div class="portfolio-item padd-15" data-category="wordpress">
                                     <div class="portfolio-item-inner shadow-dark">
                                         <div class="portfolio-img">
-                                            <img src="images/11.jpg" alt="portfolio">
+                                            <img src="images/11.JPG" alt="portfolio">
                                         </div>
                                         <div class="portfolio-info">
                                             <h4>Front-End</h4>
