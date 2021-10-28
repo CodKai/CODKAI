@@ -124,6 +124,24 @@ body {
   transform: scale(1.05);
 }
 
+.btn-web {
+  font-size: 16px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  padding: 12px 20px;
+  color: #ffb400;
+  border-radius: 40px;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.btn-web:hover {
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
 .hidden {
   display: none !important;
 }
